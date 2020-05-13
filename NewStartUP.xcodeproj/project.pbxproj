@@ -13,6 +13,8 @@
 		E33C0D13246C212700742696 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33C0D11246C212700742696 /* Main.storyboard */; };
 		E33C0D15246C212B00742696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E33C0D14246C212B00742696 /* Assets.xcassets */; };
 		E33C0D18246C212B00742696 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E33C0D16246C212B00742696 /* LaunchScreen.storyboard */; };
+		E33C0D20246C364200742696 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E33C0D1F246C364200742696 /* README.md */; };
+		E33C0D22246C39EC00742696 /* details.png in Resources */ = {isa = PBXBuildFile; fileRef = E33C0D21246C39EB00742696 /* details.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E33C0D14246C212B00742696 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E33C0D17246C212B00742696 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E33C0D19246C212B00742696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E33C0D1F246C364200742696 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E33C0D21246C39EB00742696 /* details.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = details.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 		E33C0CFF246C212700742696 = {
 			isa = PBXGroup;
 			children = (
+				E33C0D1F246C364200742696 /* README.md */,
+				E33C0D21246C39EB00742696 /* details.png */,
 				E33C0D0A246C212700742696 /* NewStartUP */,
 				E33C0D09246C212700742696 /* Products */,
 			);
@@ -126,7 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				E33C0D18246C212B00742696 /* LaunchScreen.storyboard in Resources */,
+				E33C0D22246C39EC00742696 /* details.png in Resources */,
 				E33C0D15246C212B00742696 /* Assets.xcassets in Resources */,
+				E33C0D20246C364200742696 /* README.md in Resources */,
 				E33C0D13246C212700742696 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
